@@ -1,4 +1,4 @@
-# Online Education Diagnostic Assessment Predictor
+# Education Diagnostic Assessment Predictor
 
 ## Overview
 This project is part of the University of Toronto CSC311 Introduction to Machine Learning Fall 2021 coursework. It focuses on leveraging machine learning algorithms to predict the likelihood of students correctly answering specific diagnostic questions in an online education setting. The predictions are based on the students' prior responses to other questions and the responses from other students.
